@@ -22,6 +22,9 @@
 - <b>Recharts</b>
   </br>
   Digunakan sebagai Area Chart, Pie Chart dengan kustomisasi tingkat lanjut. Dipilih agar supaya sesuai dengan desain UI/UX.
+- <b>Vite</b>
+  </br>
+  Digunakan sebagai build tool dan bundler. Dipilih karena populer dan cepat untuk project ReactJS modern.
 
 ## Requirements
 
